@@ -2,11 +2,11 @@
 
 <img src="https://user-images.githubusercontent.com/817508/41925638-6f1b9dde-796d-11e8-8f87-3646f0c89750.png" style="max-width:100%;" width="190px" align="right">
 
-[![PHP Version](https://img.shields.io/packagist/php-v/nesk/puphpeteer.svg?style=flat-square)](http://php.net/)
-[![Composer Version](https://img.shields.io/packagist/v/nesk/puphpeteer.svg?style=flat-square&label=Composer)](https://packagist.org/packages/nesk/puphpeteer)
-[![Node Version](https://img.shields.io/node/v/@nesk/puphpeteer.svg?style=flat-square&label=Node)](https://nodejs.org/)
-[![NPM Version](https://img.shields.io/npm/v/@nesk/puphpeteer.svg?style=flat-square&label=NPM)](https://www.npmjs.com/package/@nesk/puphpeteer)
-[![Build Status](https://img.shields.io/travis/nesk/puphpeteer.svg?style=flat-square&label=Build%20Status)](https://travis-ci.org/nesk/puphpeteer)
+[![PHP Version](https://img.shields.io/packagist/php-v/max13/puphpeteer.svg?style=flat-square)](http://php.net/)
+[![Composer Version](https://img.shields.io/packagist/v/max13/puphpeteer.svg?style=flat-square&label=Composer)](https://packagist.org/packages/max13/puphpeteer)
+[![Node Version](https://img.shields.io/node/v/@max13/puphpeteer.svg?style=flat-square&label=Node)](https://nodejs.org/)
+[![NPM Version](https://img.shields.io/npm/v/@max13/puphpeteer.svg?style=flat-square&label=NPM)](https://www.npmjs.com/package/@max13/puphpeteer)
+[![Build Status](https://img.shields.io/travis/max13/puphpeteer.svg?style=flat-square&label=Build%20Status)](https://travis-ci.org/max13/puphpeteer)
 
 A [Puppeteer](https://github.com/GoogleChrome/puppeteer/) bridge for PHP, supporting the entire API. Based on [Rialto](https://github.com/nesk/rialto/), a package to manage Node resources from PHP.
 
@@ -60,8 +60,8 @@ This package requires PHP >= 7.1 and Node >= 8.
 Install it with these two command lines:
 
 ```shell
-composer require nesk/puphpeteer
-npm install @nesk/puphpeteer
+composer require max13/puphpeteer
+npm install @max13/puphpeteer
 ```
 
 ## Notable differences between PuPHPeteer and Puppeteer

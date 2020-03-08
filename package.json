@@ -1,5 +1,5 @@
 {
-  "name": "@nesk/puphpeteer",
+  "name": "@max13/puphpeteer",
   "version": "1.6.1",
   "description": "A Puppeteer bridge for PHP, supporting the entire API.",
   "keywords": [
@@ -17,7 +17,7 @@
     "url": "https://johann.pardanaud.com/"
   },
   "license": "MIT",
-  "repository": "github:nesk/puphpeteer",
+  "repository": "github:max13/puphpeteer",
   "engines": {
     "node": ">=8.0.0"
   },
